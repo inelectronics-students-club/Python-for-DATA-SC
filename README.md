@@ -1,4 +1,4 @@
-# Python for DATA Sciene
+# Python for DATA Science
 
 Data enables us to understand the world around us. Whether we're gathering 
 data about our natural world to understand how it is changing, or analyzing 
